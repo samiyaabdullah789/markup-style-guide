@@ -1,0 +1,26 @@
+h3{
+    color: burlywood;
+    background-color: aliceblue;
+    font-size: larger;
+}
+#style{
+    color:blueviolet;
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.style{
+    color:rgb(71, 34, 7);
+    background-color:rgb(209, 218, 218);    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+h3{
+    color:darkmagenta;
+    background-color: aliceblue;
+    font-size: medium;
+}
+*{
+    color: crimson;
+    font-size:large;
+}
